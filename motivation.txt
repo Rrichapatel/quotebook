@@ -5,3 +5,5 @@ Motivation is the art of getting people to do what you want them to do because t
 adding just to work on merge conflict - master
 chnges done in motivational quote to test merging conflict - branch
 
+the best way to predict the future is to create it.
+
